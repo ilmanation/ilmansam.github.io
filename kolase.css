@@ -1,0 +1,47 @@
+.logo{
+  position:absolute;
+  right:952px;
+  top:-45px;
+}
+
+.mart{
+  position:absolute;
+  right:100px;
+  top:10px;
+}
+
+.inventory{
+  position:absolute;
+  right:30px;
+  top:20px;
+}
+
+.galon{
+  position:absolute;
+  right:275px;
+  top:100px;
+}
+
+.stik{
+  position:absolute;
+  right:3px;
+  top:370px;
+}
+
+.keyboard{
+  position:absolute;
+  left:50px;
+  top:360px
+}
+
+.wifi{
+  position:absolute;
+  left:100px;
+  top:150px;
+}
+
+.ps{
+  position:absolute;
+  left:50px;
+  top:100px;
+}

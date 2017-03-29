@@ -1,0 +1,61 @@
+body {
+        font-family: Raleway,Open Sans,Droid Sans,arial,sans-serif;
+        font-size: 60px;
+        background-color: : #AFEEEE;
+    -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  -ms-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+      }
+
+          /* unvisited link */
+      a:link {
+          color: #F6546A;
+      }
+
+          /* visited link */
+      a:visited {
+          color: #F6546A;
+      }
+
+          /* mouse over link */
+      a:hover {
+          color: #20B2AA;
+          text-overflow: lowercase;
+          text-decoration: none;
+          text-transform: uppercase;
+      }
+
+          /* selected link */
+      a:active {
+          color: white;
+}
+
+
+
+      .links{
+        color:#e600e6
+        position:absolute;
+        right:400px
+
+      }
+
+      .top{
+        margin-top:100px;
+      }
+
+      .bottom{
+        position:absolute;
+        bottom:100px;
+
+      }
+
+      .bottomrow{
+        margin-top:170px;
+      }
+
+      .right{
+        position:absolute;
+        right:400px
+      }
