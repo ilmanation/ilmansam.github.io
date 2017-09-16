@@ -6,42 +6,43 @@
 
 .mart{
   position:absolute;
-  right:100px;
+  right:200px;
   top:10px;
 }
 
-.inventory{
+.me1{
   position:absolute;
   right:30px;
   top:20px;
 }
 
-.galon{
-  position:absolute;
-  right:275px;
-  top:100px;
-}
-
 .stik{
   position:absolute;
-  right:3px;
-  top:370px;
+  right:20px;
+  top:270px;
 }
 
-.keyboard{
+.langit{
   position:absolute;
-  left:50px;
-  top:360px
+  left:90px;
+  top:290px
 }
 
-.wifi{
+.mislogo{
   position:absolute;
-  left:100px;
-  top:150px;
+  left:10px;
+  top:-80px;
+  animation-iteration-count:infinite;
 }
 
-.ps{
+.galon{
   position:absolute;
-  left:50px;
-  top:100px;
+  right:500px;
+  top:200px;
+}
+
+.me2{
+  position:absolute;
+  left:-45px;
+  top:20px;
 }
